@@ -4,7 +4,7 @@
 A lightweight JavaScript library for smooth scrolling to anchor links.
 
 ## Features
-- File Size: 465 bytes!!! (minified)
+- File Size: 468 bytes!!! (minified)
 - Pure JS
 - No dependencies
 - Easy to use
