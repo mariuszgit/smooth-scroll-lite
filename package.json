@@ -1,0 +1,27 @@
+{
+  "name": "smooth-scroll-lite",
+  "version": "1.0.7",
+  "description": "SmoothScrollJs is a lightweight JavaScript library that enables smooth scrolling behavior for anchor links on a web page. It provides a smooth animated transition when navigating to target sections within the same page.",
+  "main": "dist/smoothScrollLite.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariuszgit/smooth-scroll-lite.git"
+  },
+  "keywords": [
+    "smooth",
+    "scrolling",
+    "scroll",
+    "animation",
+    "anchor",
+    "links",
+    "scroll",
+    "behavior",
+    "lightweight"
+  ],
+  "author": "mariuszgit",
+  "license": "MIT",
+  "homepage": "https://github.com/mariuszgit/smooth-scroll-lite#readme"
+}
