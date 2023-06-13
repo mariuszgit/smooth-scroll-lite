@@ -1,3 +1,5 @@
+![Smooth Scroll Lite](./img/smooth-scroll-lite.png)
+
 # SmoothScrollLite
 A lightweight JavaScript library for smooth scrolling to anchor links.
 
