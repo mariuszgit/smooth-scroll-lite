@@ -43,4 +43,4 @@ const smoothScrollLite = new SmoothScrollLite(800); // Sets the animation durati
 That's it! SmoothScroll will automatically add click event listeners to the anchor links and provide a smooth scrolling experience within your web page.
 
 ## License
-SmoothScroll is released under the MIT License. See LICENSE for details.
+SmoothScroll is released under the MIT License. See [LICENSE](LICENSE) for details.
